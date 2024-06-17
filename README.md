@@ -1,6 +1,6 @@
 # Mexican NLP 2024 Summer School Tutorial on Knowledge Distillation and Parameter Efficient Fine-tuning
 
-The slides can be found here
+The slides can be found [here](https://github.com/afaji/summerschool-KD-PEFT/blob/main/Mexican%20NLP%20Summer%20School%202024.pdf)
 
 ## Code Examples:
 * [Baseline Training](https://colab.research.google.com/drive/1ZIesmJ9v5QO5tAOEDtDZDfaj-6xlKcRi?usp=sharing): This notebook shows an example of fine-tuning BERT for a standard classification task.
